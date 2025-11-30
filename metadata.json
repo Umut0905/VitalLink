@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Son VİTALLİNK 1",
+  "description": "Hastanelerde hemşire ve doktorların hasta vital bulgularını QR kod kullanarak takip etmesini sağlayan uygulama. Yapay zeka destekli sağlık trend analizi içerir.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
